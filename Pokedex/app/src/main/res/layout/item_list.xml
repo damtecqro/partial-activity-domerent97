@@ -13,7 +13,7 @@
         android:src="@drawable/pokemon_logo_min"
         android:layout_gravity="center"
         android:id="@+id/pokemon_image"
-        />
+        android:contentDescription="TODO" />
 
     <TextView
         android:layout_width="match_parent"

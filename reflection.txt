@@ -1,0 +1,11 @@
+
+
+Doménica Rentería Berrospe
+A01208964
+
+- What made it easier for you to implement the view?
+I guess that the option of dragging elements to the interface/xml. Also, I reused the code that you implemented on the AdapterList to load the other information that you asked for in the ActivityInfo. It was a bit hard to understand, but when I did, it was easier to adapt it.
+
+- What made it difficult for you to implement the view?
+
+At the beggining, it was quite difficult to do so. It was still very abstract to me on how this works. I had to view some udemy videos and read several times the previous code on how to change from one activity to another, etc. I guess learning a new language is always challenging. Also, I thought that the xml files were all about typing out its elements, but then I figured out the way in which you can select the items and drag them to the interface. 
